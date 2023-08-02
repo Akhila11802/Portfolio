@@ -353,67 +353,64 @@ export const skills = [
     percentage: '65',
   },
 
-  {
-    id: 8,
-    title: 'Redis',
-    percentage: '10',
-  },
+ 
+   
 
   {
-    id: 9,
+    id: 8,
     title: 'PoweBI',
     percentage: '45',
   },
 
   {
-    id: 10,
+    id: 9,
     title: 'C++',
     percentage: '75',
   },
 
   {
-    id: 11,
+    id: 10,
     title: 'Java',
     percentage: '65',
   },
 
   {
-    id: 12,
+    id: 11,
     title: 'Python',
     percentage: '55',
   },
 
   {
-    id: 13,
+    id: 12,
     title: 'SQL & NoSQL',
     percentage: '70',
   },
 
   {
-    id: 14,
+    id: 13,
     title: 'MERN',
     percentage: '40',
   },
 
   {
-    id: 15,
+    id: 14,
     title: 'ML',
     percentage: '65',
   },
 
   {
-    id: 16,
+    id: 15,
     title: 'DSA',
     percentage: '45',
   },
   {
-    id: 17,
+    id: 16,
     title: 'Communication',
     percentage: '95',
   },
 
   {
-    id: 18,
+    id: 17,
     title: 'Team Work',
     percentage: '100',
   },
@@ -439,7 +436,7 @@ export const portfolio = [
 
       
     ],
-    link: "https://github.com/Akhila11802"
+    link: "https://github.com/Akhila11802/Portfolio"
   },
 
   {
